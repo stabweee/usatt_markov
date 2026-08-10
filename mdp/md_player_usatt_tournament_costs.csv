@@ -1,0 +1,12 @@
+Tournament,ID,Location,Days,Fee per event,Events,Transportation,Car Rental Rate,Hotel Rate,Food per day,Total Cost
+Home,"home","NA", 0, 0, 0, 0, 0, 0, 0, 0
+Nationals,"nationals","Ontario, CA",6,400,1,400,78,110,50,2118
+US Open,"open","Las Vegas, NV",6,400,1,170,40,100,50,1610
+Team Trials,"trials","Westchester, NY",4,175,2,110,0,160,50,1140
+Westchester,"westchester","Westchester, NY",2,40,2,110,0,160,50,450
+ICC,"icc","Milpitas, CA",3,50,3,325,68,120,50,1069
+LA Open,"la_open","Los Angeles, CA",3,40,3,220,90,100,50,960
+NA Teams,"na_teams","Washington, DC",3,350,1,55,0,300,50,1155
+Edgeball,"edgeball","Chicago, IL",3,45,3,150,58,100,50,809
+Aurora Cup,"aurora_cup","Aurora, IL",3,45,3,150,100,110,50,955
+BTTC,"bttc","Davie, FL",4,70,3,130,43,100,50,1012
